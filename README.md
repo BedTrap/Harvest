@@ -1,5 +1,4 @@
-# Welcome to GitHub Desktop!
+# Harvest 1.19.2
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Powerful PVP client for 1.19.2 version.
+Feel free to skid and read comments (except Ricky, mf raccon)
